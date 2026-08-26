@@ -1,6 +1,6 @@
 # DAY 1:- My Aiml Journey
 # Name:- Vaibhavi Madke
-# Date:- 8 May 2026
+# Date:- 26 August 2026
 print("My Name is Vaibhavi")
 print("I am 19 years old")
 print("I am studying in BSc Aiml")
