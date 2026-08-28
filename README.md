@@ -4,6 +4,8 @@ From Day 1 to AI Engineer — documenting every step of my BSc AI/ML journey thr
 - Day 1 — Variables, Print statements, 
   Basic calculations, Input, If/Else, Loops
 - Day 2 — Functions, Lists, Loops, 
-  Mini Project: Report Card Generator 
+  Mini Project: Report Card Generator
+- Day 3 — Dictionaries, Strings, File Handling,
+  Mini Project: Personal Data Manager 
 # Goal
 Become an AI Engineer by consistently learning every single day!
