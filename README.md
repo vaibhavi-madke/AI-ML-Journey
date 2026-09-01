@@ -8,6 +8,8 @@ From Day 1 to AI Engineer — documenting every step of my BSc AI/ML journey thr
 - Day 3 — Dictionaries, Strings, File Handling,
   Mini Project: Personal Data Manager
 - Day 4 — NumPy Arrays, Boolean Indexing,
-           Array Maths, Statistics, Sorting 
+           Array Maths, Statistics, Sorting
+- Day 5 — 2D Arrays, Matrix Slicing,
+           Mini Project: Full Exam Analyser 
 # Goal
 Become an AI Engineer by consistently learning every single day!
